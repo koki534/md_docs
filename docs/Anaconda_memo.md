@@ -26,8 +26,6 @@ conda install --file requirements.txt
 
 
 
-`conda deactivate` 仮想環境を抜ける
-
 ## jupyter lab関連(新)
 
 1. 仮想環境の外でnb_conda_kernelsのインストール
@@ -55,3 +53,11 @@ conda install --file requirements.txt
 https://anbasile.github.io/posts/2017-06-25-jupyter-venv/
 
 https://janakiev.com/blog/jupyter-virtual-envs/
+
+
+
+## .ipynbをhtmlに変換する
+
+```bash
+jupyter nbconvert --to html hoge.ipynb
+```

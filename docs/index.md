@@ -4,7 +4,7 @@ layout: default
 
 
 
-# プログラミングに関するメモ
+# メモ
 
 
 
@@ -36,6 +36,8 @@ layout: default
 
 [Docker](Docker_Memo.md)
 
+[Google Colab](google_colab.md)
+
 
 ## その他
 
@@ -49,7 +51,9 @@ layout: default
 
 [PowerShell](PowerShell_Memo.md)
 
+[mac](mac_terminal.md)
 
+[体作り](body_making.md)
 
 
 
