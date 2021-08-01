@@ -10,4 +10,4 @@ first commit
 
 
 
-[Python メモ](docs/python_memo.md)
+[Python メモ](python_memo.md)
