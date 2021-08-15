@@ -47,6 +47,8 @@ layout: default
 
 [Markdown](Markdown_Memo.md)
 
+[JavaScript](javascript_memo.md)
+
 [AWS](AWS_Memo.md)
 
 [PowerShell](PowerShell_Memo.md)
