@@ -630,28 +630,3 @@ docker push <イメージ名>
 
 
 
-COPY file ディレクトリ
-
-でビルドコンテキスト内にある選んだファイルをdockerコンテナ内のディレクトリにコピーする
-
-## Dockerfile 
-
-pip やapt-getでは、最初は1行ずつRUNしてインストールする。完成型にする際には１つのRUNにまとめる
-
-
-
-## docker-compose
-
-コンテナをバックグラウンドで立ち上げる
-
-```bash
-docker-compose up -d
-```
-
-
-
-コンテナの中に入る
-
-```bash
-docker-compose exec [service名] bash
-```

@@ -61,3 +61,14 @@ https://janakiev.com/blog/jupyter-virtual-envs/
 ```bash
 jupyter nbconvert --to html hoge.ipynb
 ```
+
+
+
+markdownに変換
+
+```python
+jupyter nbconvert --to markdown hoge.ipynb
+```
+
+
+
