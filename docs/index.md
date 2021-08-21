@@ -16,7 +16,7 @@ layout: default
 
 [matplotlib](matplotlib_memo.md)
 
-[django](9django.md)
+[django](django.md)
 
 
 ## SQL
