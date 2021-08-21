@@ -838,7 +838,8 @@ h1 a, h2 a {
 `blog/templates/blog/post_list.html`を開いて，戦闘に次の行を追加する
 
 ```html
-{% load static %}
+// {% load static %}
+//をはずす
 ```
 
 `<head>`の中にあるBootstrap CSSファイルのリンクの下に、次の行を追加する
