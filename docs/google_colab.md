@@ -63,3 +63,10 @@ OS確認
 !cat /etc/issue
 ```
 
+
+
+```python
+#Google Colabを起動してからの時間確認
+!cat /proc/uptime | awk '{print $1 /60 /60 /24 "days (" $1 "sec)"}'
+```
+
